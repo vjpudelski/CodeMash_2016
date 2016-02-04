@@ -1,0 +1,11 @@
+{
+  "name": "HelloIonic",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.2.4"
+  },
+  "dependencies": {
+    "EpsilonJS": "epsilonjs#~1.0.2",
+    "angular-pouchdb": "~4.1.0"
+  }
+}
